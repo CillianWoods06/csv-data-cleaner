@@ -1,9 +1,0 @@
-appointment_id,patient_name,date,clinic,status
-A001,  mary   o'brien ,2026-01-14,galway central,Attended
-A002,JOHN MURPHY,15/01/2026,Salthill ,cancelled
-A003,aoife kelly,16-01-2026,GALWAY CENTRAL,No Show
-A004,,17/01/2026,Oranmore,attended
-A005,sean walsh,not a date,Oranmore,attended
-A002,JOHN MURPHY,15/01/2026,Salthill ,cancelled
-A006,niamh byrne,20 Jan 2026,salthill,rescheduled
-A007,  patrick ryan,2026-01-21,Oranmore,ATTENDED

@@ -1,0 +1,22 @@
+appointment_id,patient_name,date,clinic,status,fee
+A001,  mary   o'brien ,2026-01-14,galway central,Attended,60
+A002,JOHN MURPHY,15/01/2026,Salthill ,cancelled,60
+A003,aoife kelly,16-01-2026,GALWAY CENTRAL,No Show,45
+A004,,17/01/2026,Oranmore,attended,60
+A005,sean walsh,not a date,Oranmore,attended,60
+A002,JOHN MURPHY,15/01/2026,Salthill ,cancelled,60
+A006,niamh byrne,20 Jan 2026,salthill,rescheduled,45
+A007,  patrick ryan,2026-01-21,Oranmore,ATTENDED,€60
+A008,ciara doyle,22/01/2026,Galway Central,attended,45.00
+A009,DECLAN BURKE,23-01-2026,salthill,no-show,60
+A010,orla nolan,2026-02-02,oranmore,Attended,
+A011,eoin quinn,03/02/2026,Galway central,cancelled,60
+A012,sinead walsh,04 Feb 2026,SALTHILL,attended,45
+A013,conor kelly,2026-02-05,Galway Central,No-Show,60
+A014,emma byrne,06/02/2026,Oranmore,attended,sixty
+A015,  ronan  murphy,2026-02-09,Salthill,attended,60
+A016,laura ryan,10-02-2026,galway central,attended,45
+A017,kevin o'neill,2026-02-11,Oranmore,no show,60
+A018,grace doyle,12/02/2026,Salthill,Attended,60
+A019,mark quinn,31/02/2026,Galway Central,attended,60
+A020,amy nolan,2026-02-16,oranmore,CANCELLED,45
